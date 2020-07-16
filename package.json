@@ -10,7 +10,7 @@
   "license": "MIT",
 
   "publishConfig": {
-    "registry": "https://nexus.qa.sphereon.com/repository/sphereon-public-npm/"
+    "registry": "https://nexus.qa.sphereon.com/repository/sphereon-opensource-npm/"
   },
   "repository": {
     "type": "git",

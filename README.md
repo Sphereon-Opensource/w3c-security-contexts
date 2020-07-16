@@ -10,6 +10,6 @@ An npm package that exports related contexts and constants from the W3C-CCG secu
 # Releasing
 Use the following commands to authenticate with Nexus and publish:
 ```
-npm adduser --registry=https://nexus.qa.sphereon.com/repository/sphereon-private-npm/
+npm adduser --registry=https://nexus.qa.sphereon.com/repository/sphereon-opensource-npm/
 npm publish
 ```
