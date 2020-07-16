@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://www.sphereon.com"><img src="https://sphereon.com/content/themes/sphereon/assets/img/logo-wit.svg" alt="Sphereon" width="400"></a>
+  <a href="https://www.sphereon.com"><img src="https://sphereon.com/content/themes/sphereon/assets/img/logo.svg" alt="Sphereon" width="400"></a>
   <br>
   A React Native supported W3C Security Context Library
   <br>
