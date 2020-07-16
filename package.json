@@ -1,0 +1,11 @@
+{
+  "name": "react-native-security-context",
+  "version": "0.0.1",
+  "description": "A react-native supported W3C Security Context Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Gabriel Kidane",
+  "license": "MIT"
+}
