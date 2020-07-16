@@ -6,6 +6,18 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "Gabriel Kidane",
-  "license": "MIT"
+  "author": "Sphereon BV",
+  "license": "MIT",
+
+  "publishConfig": {
+    "registry": "https://nexus.qa.sphereon.com/repository/sphereon-public-npm/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sphereon-Opensource/react-native-security-context.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sphereon-Opensource/react-native-security-context/issues"
+  },
+  "homepage": "https://github.com/Sphereon-Opensource/react-native-security-context"
 }
