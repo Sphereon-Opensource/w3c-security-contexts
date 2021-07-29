@@ -10,5 +10,6 @@ An npm package that exports related contexts and constants from the W3C-CCG secu
 # Releasing
 Use the following commands to publish the package to npmjs.org:
 ```
+npm login
 npm publish --access public
 ```

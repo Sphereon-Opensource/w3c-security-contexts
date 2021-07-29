@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Sphereon-Opensource/w3c-security-contexts/issues"
   },
-  "homepage": "https://github.com/Sphereon-Opensource/w3c-security-contexts"
+  "homepage": "https://github.com/Sphereon-Opensource/w3c-security-contexts",
+  "keywords": [
+    "W3C",
+    "Security",
+    "Context",
+    "Vocab"
+  ]
 }
