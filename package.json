@@ -1,23 +1,20 @@
 {
-  "name": "react-native-security-context",
-  "version": "0.0.1",
-  "description": "A react-native supported W3C Security Context Library",
+  "name": "@sphereon/w3c-security-contexts",
+  "version": "0.2.0",
+  "description": "W3C Security Context Library for Typescript, Javascript, React Native",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "author": "Sphereon BV",
   "license": "MIT",
-
-  "publishConfig": {
-    "registry": "https://nexus.qa.sphereon.com/repository/sphereon-opensource-npm/"
-  },
+  "private": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sphereon-Opensource/react-native-security-context.git"
+    "url": "git+https://github.com/Sphereon-Opensource/w3c-security-contexts.git"
   },
   "bugs": {
-    "url": "https://github.com/Sphereon-Opensource/react-native-security-context/issues"
+    "url": "https://github.com/Sphereon-Opensource/w3c-security-contexts/issues"
   },
-  "homepage": "https://github.com/Sphereon-Opensource/react-native-security-context"
+  "homepage": "https://github.com/Sphereon-Opensource/w3c-security-contexts"
 }
